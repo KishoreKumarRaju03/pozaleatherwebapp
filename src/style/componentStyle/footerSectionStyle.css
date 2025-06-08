@@ -1,0 +1,60 @@
+.footer-container {
+    width: 100%;
+    background-color: #000;
+    color: #fff;
+}
+
+.footer-section {
+    width: 100%;
+}
+
+.footer-section-content {
+    width: 80%;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    padding: 15px 0px 0px 7%;
+    align-self: flex-start;
+}
+.footer-section-content ul {
+    list-style: none;
+    padding: 0;
+    text-align: justify;
+    line-height: 33px;
+    font-size: 15px;
+}
+.footer-section-Connect-with-us-content svg {
+    width: 23px;
+    margin-right: 15px;
+}
+.footer-section-customer-care {
+    padding: 10px;
+}
+.footer-section-about-us {
+    padding: 10px;
+}
+.footer-section-Services {
+    padding: 10px;
+}
+.footer-section-Connect-with-us {
+    padding: 10px;
+}
+.footer-section-content h4 {
+    font-size: 17px;
+}
+.footer-section-Connect-with-us-content{
+    padding: 0px 10px 0px 10px;
+}
+.footer-section-end {
+    padding: 15px 0px 0px 7%;
+}
+
+.footer-section-end-container {
+    display: flex;
+    align-items: center;
+    gap: 36px;
+}
+.footer-section-end-policy span:not(:last-child)::after {
+    content: "|";
+    margin: 0 10px;
+    color: rgba(255, 255, 255, 0.5); 
+  }

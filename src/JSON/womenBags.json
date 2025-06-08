@@ -1,0 +1,652 @@
+{
+    "products": [
+      {
+        "id": "WB-1001",
+        "name": "Vintage Leather Satchel",
+        "category": "Women",
+        "price": 245.99,
+        "discountPrice": 199.99,
+        "rating": 4.7,
+        "color": ["Chestnut Brown", "Black"],
+        "leatherType": "Full-Grain Leather",
+        "features": [
+          "Adjustable shoulder strap",
+          "5 interior compartments",
+          "Antique brass hardware"
+        ],
+        "closure": "Magnetic snap",
+        "personalization": ["Monogramming", "Strap customization"],
+        "image": "/images/women/wb-1001.jpg",
+        "stock": 18,
+        "dimensions": "12 x 9 x 5 inches",
+        "weight": "1.8 lbs"
+      },
+      {
+        "id": "WB-1002",
+        "name": "Quilted Chain Crossbody",
+        "category": "Women",
+        "price": 189.50,
+        "rating": 4.9,
+        "color": ["Blush Pink", "Navy"],
+        "leatherType": "Lambskin",
+        "features": [
+          "Removable chain strap",
+          "RFID protection",
+          "Zip-top closure"
+        ],
+        "closure": "Zipper",
+        "personalization": ["Charm attachment"],
+        "image": "/images/women/wb-1002.jpg",
+        "stock": 12,
+        "dimensions": "9 x 6 x 2 inches",
+        "weight": "1.2 lbs"
+      },
+      {
+        "id": "WB-1003",
+        "name": "Convertible Backpack Purse",
+        "category": "Women",
+        "price": 159.99,
+        "rating": 4.5,
+        "color": ["Taupe", "Burgundy"],
+        "leatherType": "Pebbled Leather",
+        "features": [
+          "3-way carry",
+          "15\" laptop sleeve",
+          "Water-resistant lining"
+        ],
+        "closure": "Drawstring + flap",
+        "personalization": ["Color combinations"],
+        "image": "/images/women/wb-1003.jpg",
+        "stock": 25,
+        "dimensions": "14 x 11 x 6 inches",
+        "weight": "2.3 lbs"
+      },
+      {
+        "id": "MB-2001",
+        "name": "Executive Leather Briefcase",
+        "category": "Men",
+        "price": 349.00,
+        "rating": 4.8,
+        "color": ["Jet Black", "Cognac"],
+        "leatherType": "Top-Grain Leather",
+        "features": [
+          "17\" laptop compartment",
+          "TSA-approved lock",
+          "Pen holders"
+        ],
+        "closure": "Combination lock",
+        "personalization": ["Embossed initials", "Luggage tag"],
+        "image": "/images/men/mb-2001.jpg",
+        "stock": 8,
+        "dimensions": "18 x 13 x 6 inches",
+        "weight": "4.5 lbs"
+      },
+      {
+        "id": "MB-2002",
+        "name": "Weekender Duffle Bag",
+        "category": "Men",
+        "price": 229.99,
+        "discountPrice": 199.99,
+        "rating": 4.6,
+        "color": ["Olive Green", "Charcoal"],
+        "leatherType": "Waxed Canvas with Leather Trim",
+        "features": [
+          "Removable shoulder strap",
+          "Shoe compartment",
+          "Water-resistant"
+        ],
+        "closure": "Zipper + buckle",
+        "personalization": ["Patches", "Strap engraving"],
+        "image": "/images/men/mb-2002.jpg",
+        "stock": 15,
+        "dimensions": "22 x 12 x 10 inches",
+        "weight": "3.8 lbs"
+      },
+      {
+        "id": "MB-2003",
+        "name": "Minimalist Card Holder",
+        "category": "Men",
+        "price": 49.99,
+        "rating": 4.4,
+        "color": ["Saddle Brown", "Slate Gray"],
+        "leatherType": "Vegetable-Tanned Leather",
+        "features": [
+          "4 card slots",
+          "Cash pocket",
+          "Slim profile"
+        ],
+        "closure": "None",
+        "personalization": ["Edge coloring", "Hot stamp"],
+        "image": "/images/men/mb-2003.jpg",
+        "stock": 42,
+        "dimensions": "4 x 2.5 x 0.3 inches",
+        "weight": "0.2 lbs"
+      },
+      {
+        "id": "WB-1004",
+        "name": "Evening Beaded Clutch",
+        "category": "Women",
+        "price": 179.00,
+        "rating": 4.3,
+        "color": ["Gold", "Silver"],
+        "leatherType": "Patent Leather",
+        "features": [
+          "Detachable wristlet",
+          "Interior mirror",
+          "Beaded embroidery"
+        ],
+        "closure": "Magnetic flap",
+        "personalization": ["Bead color selection"],
+        "image": "/images/women/wb-1004.jpg",
+        "stock": 7,
+        "dimensions": "10 x 5 x 2 inches",
+        "weight": "1.0 lbs"
+      },
+      {
+        "id": "WB-1005",
+        "name": "Convertible Tote Backpack",
+        "category": "Women",
+        "price": 135.50,
+        "rating": 4.7,
+        "color": ["Denim Blue", "Terracotta"],
+        "leatherType": "Recycled Leather",
+        "features": [
+          "Stowable straps",
+          "Zip-top security",
+          "Eco-friendly materials"
+        ],
+        "closure": "Zipper",
+        "personalization": ["Embroidered name"],
+        "image": "/images/women/wb-1005.jpg",
+        "stock": 20,
+        "dimensions": "16 x 12 x 7 inches",
+        "weight": "2.1 lbs"
+      },
+      {
+        "id": "MB-2004",
+        "name": "Tech Sling Bag",
+        "category": "Men",
+        "price": 129.99,
+        "rating": 4.5,
+        "color": ["Black", "Dark Khaki"],
+        "leatherType": "Nylon with Leather Accents",
+        "features": [
+          "Charging port access",
+          "Tablet pocket",
+          "Hidden passport slot"
+        ],
+        "closure": "Magnetic flap",
+        "personalization": ["Modular attachments"],
+        "image": "/images/men/mb-2004.jpg",
+        "stock": 22,
+        "dimensions": "14 x 8 x 4 inches",
+        "weight": "1.5 lbs"
+      },
+      {
+        "id": "MB-2005",
+        "name": "Vintage Doctor's Bag",
+        "category": "Men",
+        "price": 275.00,
+        "rating": 4.9,
+        "color": ["Distressed Brown", "Oxblood"],
+        "leatherType": "Aged Pull-Up Leather",
+        "features": [
+          "Brass corner guards",
+          "Expandable gussets",
+          "Lockable hasps"
+        ],
+        "closure": "Turn-lock",
+        "personalization": ["Distressing level", "Hardware finish"],
+        "image": "/images/men/mb-2005.jpg",
+        "stock": 5,
+        "dimensions": "16 x 10 x 8 inches",
+        "weight": "3.2 lbs"
+      },
+      {
+        "id": "WB-1006",
+        "name": "Structured Top Handle",
+        "category": "Women",
+        "price": 320.00,
+        "rating": 4.8,
+        "color": ["White", "Nude"],
+        "leatherType": "Box Calf Leather",
+        "features": [
+          "Detachable strap",
+          "Feet protectors",
+          "Key clochette"
+        ],
+        "closure": "Flap with twist lock",
+        "personalization": ["Handle wrapping"],
+        "image": "/images/women/wb-1006.jpg",
+        "stock": 9,
+        "dimensions": "10 x 7 x 5 inches",
+        "weight": "2.0 lbs"
+      },
+      {
+        "id": "WB-1007",
+        "name": "Boho Fringe Shoulder Bag",
+        "category": "Women",
+        "price": 89.99,
+        "rating": 4.2,
+        "color": ["Mustard Yellow", "Turquoise"],
+        "leatherType": "Suede",
+        "features": [
+          "Long fringe detailing",
+          "Front tassel",
+          "Inner zip pocket"
+        ],
+        "closure": "Drawstring",
+        "personalization": ["Fringe length"],
+        "image": "/images/women/wb-1007.jpg",
+        "stock": 14,
+        "dimensions": "12 x 10 x 3 inches",
+        "weight": "1.4 lbs"
+      },
+      {
+        "id": "MB-2006",
+        "name": "Aviator Duffle",
+        "category": "Men",
+        "price": 199.99,
+        "rating": 4.7,
+        "color": ["Dark Brown", "Navy"],
+        "leatherType": "Bridle Leather",
+        "features": [
+          "Antique brass zippers",
+          "Removable shoulder pad",
+          "Waxed cotton lining"
+        ],
+        "closure": "Zipper",
+        "personalization": ["Strap engraving"],
+        "image": "/images/men/mb-2006.jpg",
+        "stock": 11,
+        "dimensions": "20 x 10 x 10 inches",
+        "weight": "3.5 lbs"
+      },
+      {
+        "id": "MB-2007",
+        "name": "Minimalist Wallet",
+        "category": "Men",
+        "price": 65.00,
+        "rating": 4.6,
+        "color": ["Black", "Natural"],
+        "leatherType": "Horween Chromexcel",
+        "features": [
+          "2 card slots",
+          "Hidden cash pocket",
+          "Quick-access slot"
+        ],
+        "closure": "Elastic band",
+        "personalization": ["Edge painting"],
+        "image": "/images/men/mb-2007.jpg",
+        "stock": 30,
+        "dimensions": "3.5 x 2.5 x 0.5 inches",
+        "weight": "0.1 lbs"
+      },
+      {
+        "id": "WB-1008",
+        "name": "Garden Party Tote",
+        "category": "Women",
+        "price": 155.99,
+        "rating": 4.4,
+        "color": ["Straw", "Rose"],
+        "leatherType": "Straw with Leather Trim",
+        "features": [
+          "Interior zip pocket",
+          "Detachable pouch",
+          "Foldable design"
+        ],
+        "closure": "Open top",
+        "personalization": ["Handle color"],
+        "image": "/images/women/wb-1008.jpg",
+        "stock": 17,
+        "dimensions": "15 x 13 x 7 inches",
+        "weight": "1.7 lbs"
+      },
+      {
+        "id": "WB-1009",
+        "name": "Evening Box Clutch",
+        "category": "Women",
+        "price": 210.00,
+        "rating": 4.5,
+        "color": ["Emerald Green", "Ruby Red"],
+        "leatherType": "Glazed Calfskin",
+        "features": [
+          "Chain strap included",
+          "Interior divider",
+          "Mirror finish"
+        ],
+        "closure": "Magnetic flap",
+        "personalization": ["Crystal monogram"],
+        "image": "/images/women/wb-1009.jpg",
+        "stock": 6,
+        "dimensions": "9 x 5 x 2 inches",
+        "weight": "0.9 lbs"
+      },
+      {
+        "id": "MB-2008",
+        "name": "Tactical Messenger",
+        "category": "Men",
+        "price": 175.50,
+        "rating": 4.3,
+        "color": ["Coyote Tan", "Ranger Green"],
+        "leatherType": "Waxed Canvas with Leather Reinforcements",
+        "features": [
+          "MOLLE compatible",
+          "Hydration pocket",
+          "Quick-access panels"
+        ],
+        "closure": "Flap with snaps",
+        "personalization": ["PALS webbing"],
+        "image": "/images/men/mb-2008.jpg",
+        "stock": 13,
+        "dimensions": "15 x 11 x 5 inches",
+        "weight": "2.8 lbs"
+      },
+      {
+        "id": "MB-2009",
+        "name": "Golf Stand Bag",
+        "category": "Men",
+        "price": 289.99,
+        "rating": 4.7,
+        "color": ["Navy/White", "Black/Red"],
+        "leatherType": "Leather Accents",
+        "features": [
+          "14-way divider",
+          "Auto-pop legs",
+          "Cooler pocket"
+        ],
+        "closure": "Zipper",
+        "personalization": ["Club logo", "Name embroidery"],
+        "image": "/images/men/mb-2009.jpg",
+        "stock": 7,
+        "dimensions": "36 x 14 x 14 inches",
+        "weight": "5.2 lbs"
+      },
+      {
+        "id": "WB-1010",
+        "name": "Crochet Beach Bag",
+        "category": "Women",
+        "price": 75.00,
+        "rating": 4.1,
+        "color": ["Natural", "Aqua"],
+        "leatherType": "Cotton with Leather Handles",
+        "features": [
+          "Foldable design",
+          "Water-resistant lining",
+          "Pom-pom details"
+        ],
+        "closure": "Drawstring",
+        "personalization": ["Pom-pom colors"],
+        "image": "/images/women/wb-1010.jpg",
+        "stock": 23,
+        "dimensions": "18 x 15 x 8 inches",
+        "weight": "1.1 lbs"
+      },
+      {
+        "id": "WB-1011",
+        "name": "Quilted Crossbody",
+        "category": "Women",
+        "price": 195.99,
+        "rating": 4.6,
+        "color": ["Burgundy", "Taupe"],
+        "leatherType": "Quilted Calfskin",
+        "features": [
+          "Chain strap",
+          "Front flap pocket",
+          "Interior organization"
+        ],
+        "closure": "Magnetic snap",
+        "personalization": ["Strap length"],
+        "image": "/images/women/wb-1011.jpg",
+        "stock": 10,
+        "dimensions": "9 x 6 x 3 inches",
+        "weight": "1.3 lbs"
+      },
+      {
+        "id": "MB-2010",
+        "name": "Rolling Garment Bag",
+        "category": "Men",
+        "price": 225.00,
+        "rating": 4.5,
+        "color": ["Charcoal", "Steel Blue"],
+        "leatherType": "Ballistic Nylon with Leather Trim",
+        "features": [
+          "Telescoping handle",
+          "Suit hanger",
+          "TSA locks"
+        ],
+        "closure": "Zipper",
+        "personalization": ["Monogram tag"],
+        "image": "/images/men/mb-2010.jpg",
+        "stock": 9,
+        "dimensions": "40 x 20 x 9 inches",
+        "weight": "7.8 lbs"
+      },
+      {
+        "id": "WB-1012",
+        "name": "Mini Backpack",
+        "category": "Women",
+        "price": 115.50,
+        "rating": 4.4,
+        "color": ["Blush Pink", "Olive"],
+        "leatherType": "Nappa Leather",
+        "features": [
+          "Adjustable straps",
+          "Front zip pocket",
+          "Key leash"
+        ],
+        "closure": "Drawstring + flap",
+        "personalization": ["Patch additions"],
+        "image": "/images/women/wb-1012.jpg",
+        "stock": 16,
+        "dimensions": "10 x 8 x 5 inches",
+        "weight": "1.6 lbs"
+      },
+      {
+        "id": "WB-1013",
+        "name": "Woven Raffia Tote",
+        "category": "Women",
+        "price": 145.99,
+        "rating": 4.3,
+        "color": ["Natural", "Black Stripe"],
+        "leatherType": "Raffia with Leather Base",
+        "features": [
+          "Reinforced corners",
+          "Detachable pouch",
+          "Structured shape"
+        ],
+        "closure": "Open top",
+        "personalization": ["Base color"],
+        "image": "/images/women/wb-1013.jpg",
+        "stock": 12,
+        "dimensions": "14 x 12 x 6 inches",
+        "weight": "1.4 lbs"
+      },
+      {
+        "id": "MB-2011",
+        "name": "Leather Dopp Kit",
+        "category": "Men",
+        "price": 85.00,
+        "rating": 4.6,
+        "color": ["Dark Brown", "Havana"],
+        "leatherType": "Oil-Tanned Leather",
+        "features": [
+          "Hanging hook",
+          "Water-resistant lining",
+          "Mesh pockets"
+        ],
+        "closure": "Zipper",
+        "personalization": ["Hot stamp"],
+        "image": "/images/men/mb-2011.jpg",
+        "stock": 20,
+        "dimensions": "9 x 5 x 4 inches",
+        "weight": "0.8 lbs"
+      },
+      {
+        "id": "MB-2012",
+        "name": "Canvas Tool Roll",
+        "category": "Men",
+        "price": 59.99,
+        "rating": 4.2,
+        "color": ["Waxed Brown", "Black"],
+        "leatherType": "Canvas with Leather Trim",
+        "features": [
+          "12 tool pockets",
+          "Roll-up design",
+          "Hanging loop"
+        ],
+        "closure": "Tie strap",
+        "personalization": ["Tool slot configuration"],
+        "image": "/images/men/mb-2012.jpg",
+        "stock": 18,
+        "dimensions": "18 x 12 inches (unrolled)",
+        "weight": "0.6 lbs"
+      },
+      {
+        "id": "WB-1014",
+        "name": "Convertible Belt Bag",
+        "category": "Women",
+        "price": 125.00,
+        "rating": 4.5,
+        "color": ["Camel", "Black"],
+        "leatherType": "Saffiano Leather",
+        "features": [
+          "3 wearing styles",
+          "RFID protection",
+          "Adjustable belt"
+        ],
+        "closure": "Zipper",
+        "personalization": ["Belt length"],
+        "image": "/images/women/wb-1014.jpg",
+        "stock": 14,
+        "dimensions": "10 x 5 x 3 inches",
+        "weight": "1.2 lbs"
+      },
+      {
+        "id": "WB-1015",
+        "name": "Structured Bucket Bag",
+        "category": "Women",
+        "price": 179.99,
+        "rating": 4.7,
+        "color": ["Bottle Green", "Taupe"],
+        "leatherType": "Grained Leather",
+        "features": [
+          "Drawstring closure",
+          "Detachable strap",
+          "Feet protectors"
+        ],
+        "closure": "Drawstring + magnetic snap",
+        "personalization": ["Strap style"],
+        "image": "/images/women/wb-1015.jpg",
+        "stock": 8,
+        "dimensions": "11 x 11 x 6 inches",
+        "weight": "1.9 lbs"
+      },
+      {
+        "id": "MB-2013",
+        "name": "Bi-Fold Wallet",
+        "category": "Men",
+        "price": 79.50,
+        "rating": 4.4,
+        "color": ["Whiskey", "Black"],
+        "leatherType": "Shell Cordovan",
+        "features": [
+          "6 card slots",
+          "ID window",
+          "Bill compartment"
+        ],
+        "closure": "None",
+        "personalization": ["Monogramming"],
+        "image": "/images/men/mb-2013.jpg",
+        "stock": 25,
+        "dimensions": "4.5 x 3.5 x 0.5 inches",
+        "weight": "0.2 lbs"
+      },
+      {
+        "id": "MB-2014",
+        "name": "Aviator Sunglasses Case",
+        "category": "Men",
+        "price": 45.00,
+        "rating": 4.3,
+        "color": ["Brown", "Black"],
+        "leatherType": "Pebbled Leather",
+        "features": [
+          "Felt lining",
+          "Keyring attachment",
+          "Snap closure"
+        ],
+        "closure": "Snap button",
+        "personalization": ["Initial stamp"],
+        "image": "/images/men/mb-2014.jpg",
+        "stock": 30,
+        "dimensions": "7 x 3 x 2 inches",
+        "weight": "0.3 lbs"
+      },
+      {
+        "id": "WB-1016",
+        "name": "Metallic Evening Bag",
+        "category": "Women",
+        "price": 165.99,
+        "rating": 4.2,
+        "color": ["Gold", "Rose Gold"],
+        "leatherType": "Metallic Lambskin",
+        "features": [
+          "Chain strap",
+          "Wristlet option",
+          "Compact mirror"
+        ],
+        "closure": "Magnetic flap",
+        "personalization": ["Chain finish"],
+        "image": "/images/women/wb-1016.jpg",
+        "stock": 11,
+        "dimensions": "8 x 5 x 2 inches",
+        "weight": "0.8 lbs"
+      },
+      {
+        "id": "WB-1017",
+        "name": "Artisan Woven Clutch",
+        "category": "Women",
+        "price": 135.00,
+        "rating": 4.6,
+        "color": ["Multi-color", "Indigo"],
+        "leatherType": "Handwoven Textile with Leather Frame",
+        "features": [
+          "Detachable chain",
+          "Zippered compartment",
+          "Ethically made"
+        ],
+        "closure": "Zipper",
+        "personalization": ["Weaving pattern"],
+        "image": "/images/women/wb-1017.jpg",
+        "stock": 7,
+        "dimensions": "10 x 6 x 2 inches",
+        "weight": "0.9 lbs"
+      },
+      {
+        "id": "MB-2015",
+        "name": "Leather Portfolio",
+        "category": "Men",
+        "price": 199.99,
+        "rating": 4.7,
+        "color": ["Black", "Dark Brown"],
+        "leatherType": "Pebbled Full-Grain Leather",
+        "features": [
+          "A4 document holder",
+          "Pen loop",
+          "Business card slot"
+        ],
+        "closure": "Snap strap",
+        "personalization": ["Embossed logo"],
+        "image": "/images/men/mb-2015.jpg",
+        "stock": 10,
+        "dimensions": "12 x 9.5 x 1 inches",
+        "weight": "1.5 lbs"
+      }
+    ],
+    "metadata": {
+      "totalProducts": 30,
+      "categories": ["Women", "Men"],
+      "lastUpdated": "2023-11-20T14:30:00Z",
+      "version": "1.1"
+    }
+  }

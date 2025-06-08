@@ -1,0 +1,322 @@
+.corporate-gifts-container {
+    background: #fff;
+    padding: 22px 0 30px;
+    position: relative;
+    max-width: 1058px;
+    margin: 0 auto;
+    border: 1px solid #b4975a;
+    padding: 20px;
+    margin-bottom: 70px !important;
+  }
+  
+  .napadori-videos video {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+  
+  .corporate-list {
+    display: flex;
+    margin: 32px 0 50px;
+    justify-content: space-between;
+  }
+  
+  .corporate-list-block {
+    width: 32%;
+    text-align: center;
+  }
+  
+  .corporate-list-block p {
+    font-family: 'futura-pt', sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    margin-top: 15px;
+    color: #333;
+  }
+  
+  .corporate-list-img img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .napadori-bestseller-sec {
+    border-top: 1px solid #c8a770;
+    padding: 25px 0 35px;
+  }
+  
+  .napadori-bestseller-cont p {
+    font-family: 'futura-pt', sans-serif;
+    font-size: 20px;
+    letter-spacing: 2px;
+    color: #2c2e35;
+    text-align: center;
+    font-weight: 500;
+    text-transform: uppercase;
+    margin-bottom: 40px;
+  }
+  
+  .brand--logo-icon {
+    padding: 32px 15px;
+    border-top: 1px solid #c8a770;
+    border-bottom: 1px solid #c8a770;
+  }
+  
+  .brand-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    list-style: none;
+    padding: 0;
+  }
+  
+  .main-brand-logo {
+    position: relative;
+    width: 90px;
+    height: 90px;
+  }
+  
+  .brand-logo-img img,
+  .brand-logo-hover img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .brand-logo-hover {
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  
+  .main-brand-logo:hover .brand-logo-hover {
+    opacity: 1;
+  }
+  
+  .brand-image-sec {
+    margin: 45px 0 60px;
+  }
+  
+  .brand-img-item img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .napadori-bestseller-item {
+    margin-top: 20px;
+  }
+  
+  .napadori-bestseller-icon {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 108px;
+    list-style: none;
+    align-items: end;
+    padding: 0;
+  }
+  
+  .napadori-bestseller-img {
+    width: 225px;
+    text-align: center;
+  }
+  
+  .napadori-bestseller-img img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .napadori-bestdeller-cont p {
+    margin-top: 10px;
+  }
+  
+  .napadori-bestdeller-cont a {
+    text-decoration: none;
+    color: #333;
+    font-size: 13px;
+    font-family: 'futura-pt', sans-serif;
+  }
+  
+  .custom-form-corporate {
+    background-color: #f9f9f8;
+    padding: 20px;
+    margin: 20px 0;
+  }
+  
+  .form-container {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .form-container h3 {
+    font-family: 'futura-pt', sans-serif;
+    font-size: 20px;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 2px;
+    font-weight: 400;
+    color: #333;
+    margin-bottom: 25px;
+  }
+  
+  .form-row {
+    display: flex;
+    margin-bottom: 15px;
+    gap: 20px;
+  }
+  
+  .form-group {
+    flex: 1;
+  }
+  
+  .form-group label {
+    display: block;
+    font-family: 'futura-pt', sans-serif;
+    font-size: 16px;
+    color: #777;
+    margin-bottom: 5px;
+  }
+  
+  .form-group input,
+  .form-group textarea {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #e7e9e8;
+    border-radius: 4px;
+    background-color: #fff;
+    font-size: 14px;
+  }
+  
+  .form-group textarea {
+    height: 100px;
+  }
+  
+  .quantity-selector {
+    display: flex;
+    align-items: center;
+  }
+  
+  .quantity-selector input {
+    text-align: center;
+    margin: 0 5px;
+    width: 50px;
+  }
+  
+  .quantity-btn {
+    background: #f3f6f6;
+    border: none;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+  }
+  
+  .submit-btn {
+    background-color: #1c1b1b;
+    color: #c8a770;
+    border: none;
+    padding: 14px 28px;
+    text-transform: uppercase;
+    font-size: 12px;
+    letter-spacing: 0.2em;
+    font-weight: 400;
+    cursor: pointer;
+    display: block;
+    margin: 20px auto 0;
+  }
+  
+  .note-for-gift {
+    max-width: 435px;
+    margin: 0 auto;
+    padding: 30px 0;
+    text-align: center;
+  }
+  
+  .note-for-gift p {
+    font-family: 'futura-pt', sans-serif;
+    font-size: 18px;
+    color: #2c2e35;
+    letter-spacing: 0.05em;
+    line-height: 1.5;
+    margin-bottom: 15px;
+  }
+  
+  .note-for-gift a {
+    color: #2c2e35;
+    text-decoration: none;
+  }
+  
+  .cornericon {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+  }
+  
+  .cornericon.top-left {
+    top: 0;
+    left: 0;
+  }
+  
+  .cornericon.top-right {
+    top: 0;
+    right: 0;
+  }
+  
+  .cornericon.bottom-left {
+    bottom: 0;
+    left: 0;
+  }
+  
+  .cornericon.bottom-right {
+    bottom: 0;
+    right: 0;
+  }
+  
+  @media (max-width: 768px) {
+    .corporate-gifts-container {
+      padding: 10px;
+      border: none;
+    }
+    
+    .corporate-list {
+      flex-direction: column;
+      margin: 20px 0;
+    }
+    
+    .corporate-list-block {
+      width: 100%;
+      margin-bottom: 20px;
+    }
+    
+    .corporate-list-block p {
+      font-size: 12px;
+    }
+    
+    .form-row {
+      flex-direction: column;
+      gap: 10px;
+    }
+    
+    .note-for-gift {
+      padding: 20px;
+    }
+    
+    .cornericon {
+      display: none;
+    }
+  }
+  .corporate-gift-heading {
+    margin-top: 8%;
+    text-align: center;
+    font-size: 20px;
+    font-family: monospace;
+    letter-spacing: 10px;
+    font-weight: 400;
+    padding: 20px 0px 45px 0px;
+  }

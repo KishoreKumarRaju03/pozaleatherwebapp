@@ -1,0 +1,114 @@
+.accessories-home-container {
+    max-width: 1200px;
+    padding: 40px 20px;
+    margin: 135px auto;
+}
+
+.accessories-title {
+    margin-bottom: 40px;
+    font-weight: 300;
+    text-align: center;
+    font-size: 2rem;
+}
+
+.accessories-categories-nav {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-bottom: 30px;
+    flex-wrap: wrap;
+}
+
+.accessory-category {
+    background: none;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1rem;
+    cursor: pointer;
+    color: #333;
+    position: relative;
+    transition: all 0.3s ease;
+}
+
+.accessory-category:hover {
+    color: #000;
+}
+
+.accessory-category.active {
+    font-weight: bold;
+    color: #000;
+}
+
+.accessory-category.active::after {
+    content: '';
+    position: absolute;
+    bottom: -5px;
+    left: 0;
+    width: 100%;
+    height: 2px;
+    background-color: #000;
+}
+
+.accessories-content {
+    margin-top: 30px;
+    min-height: 500px;
+}
+
+/* Responsive styles */
+@media (max-width: 768px) {
+    .accessories-categories-nav {
+        flex-direction: column;
+        align-items: center;
+        gap: 10px;
+    }
+    
+    .accessory-category {
+        padding: 8px 15px;
+    }
+}
+
+.accessories-categories-nav {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-bottom: 30px;
+    flex-wrap: wrap;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 15px;
+}
+
+.accessory-category {
+    background: none;
+    border: none;
+    padding: 8px 16px;
+    font-size: 1rem;
+    cursor: pointer;
+    color: #666;
+    position: relative;
+    transition: all 0.3s ease;
+    text-transform: capitalize;
+}
+
+.accessory-category:hover {
+    color: #000;
+}
+
+.accessory-category.active {
+    color: #000;
+    font-weight: 600;
+}
+
+.accessory-category.active::after {
+    content: '';
+    position: absolute;
+    bottom: -16px;
+    left: 0;
+    width: 100%;
+    height: 2px;
+    background-color: #000;
+}
+
+.accessories-content {
+    margin-top: 20px;
+    min-height: 60vh;
+}

@@ -1,0 +1,332 @@
+.conteainer-contact-us-section {
+    background-image: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)),url('../../asset/contactUs/background-contact-us.jpg');
+    background-size: contain;
+}
+
+.contact-us-section{
+    position: relative;
+}
+
+#main {
+    padding: 20px;
+    width: calc(100% - 30px);
+    max-width: 1225px;
+    margin: 0px auto 0px !important;
+    float: none;
+    position: relative;
+    text-size-adjust: 100%;
+    font-size: 14px;
+    font-weight: 400;
+    font-style: normal;
+    color: #1c1b1b;
+    line-height: 1.65;
+    font-family: cantarellregular;
+    box-sizing: border-box !important;
+    -webkit-font-smoothing: antialiased;
+}
+
+.contact-us-main {
+    position: relative;
+    background: #fff;
+    padding: 50px;
+    margin: 200px 0px 200px 0px;
+    border: 2px solid #b4975a;
+}
+
+.PageHeader {
+    display: none;
+}
+
+.top-bg {
+    background: url('../../asset/contactUs/call.svg') center center no-repeat;
+    height: 40px;
+    background-size: 30px;
+    position: relative;
+    margin-bottom: 12px;
+}
+
+.top-bg::before,
+.top-bg::after {
+    content: ""; 
+    display: block;
+    width: calc(50% - 45px);
+    top: 20px;
+    height: 1px;
+    background: #b4975a;
+    margin: 0 20px;
+    position: absolute;
+}
+
+.top-bg::before {
+    left: 0;
+}
+
+.top-bg::after {
+    right: 0;
+}
+
+.mainhead2 h1 {
+    color: #58595b;
+    background: 0 0 !important;
+    display: inline-block;
+    padding-bottom: 10px;
+    text-transform: uppercase;
+    font-size: 18px;
+    border-bottom: #e8e5d6 0 solid !important;
+    width: 100%;
+    text-align: center;
+    font-family: "omnes-pro";
+    letter-spacing: 1px;
+}
+
+p.catalogwriteup {
+    text-align: center;
+    color: #777;
+    margin: 20px 0 30px;
+    line-height: 19px;
+    font-family: 'cantarell';
+    font-size: 14px;
+    letter-spacing: 2px;
+}
+
+p.catalogwriteup a {
+    color: #b4975a;
+    text-decoration: none;
+}
+
+.PageContent.PageContent--narrow {
+    border-top: 1px solid #b4975a;
+    max-width: 90%;
+    margin-top: 30px;
+    padding-top: 20px;
+    margin-bottom: 30px;
+}
+
+form#contact_form {
+    width: 100%;
+    padding: 40px 0 10px;
+    margin: auto !important;
+    float: none;
+    max-width: 490px;
+}
+
+.Form--spacingTight .Form__Item {
+    margin-bottom: 30px;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+}
+
+#contact_form .Form__Input, 
+#contact_form .Form__Textarea {
+    border: #b4975a 1px solid;
+    width: 270px;
+    height: 20px;
+    margin-bottom: 5px;
+    font-family: cantarellregular;
+    background: #f2efeb;
+    vertical-align: middle;
+    color: #2f2f2f;
+    border-radius: 1px;
+    line-height: 1.42857143;
+    font-size: 12px;
+    padding: 4px;
+}
+
+.Form__FloatingLabel {
+    position: static;
+    width: 22%;
+    text-align: right;
+    opacity: 1;
+    transform: translateY(12%);
+    padding-right: 15px;
+    color: #6a6a6a;
+}
+
+.Form__Item.message-box textarea.Form__Textarea {
+    height: 200px;
+}
+
+.Form__Item.message-box label.Form__FloatingLabel {
+    transform: translateY(3%);
+}
+
+button.Form__Submit.Button.Button--primary.Button--full {
+    background: #000;
+    color: #fff;
+    text-transform: uppercase;
+    cursor: pointer;
+    width: 98px;
+    height: 28px;
+    border: none;
+    float: right;
+    line-height: 28px;
+    font-family: omnes-pro;
+    padding: 0 18px;
+    margin-right: 57px;
+    font-size: 14px;
+    border-radius: 0;
+    display: inline-block;
+    font-weight: 600;
+    vertical-align: middle;
+    margin-top: 0;
+    letter-spacing: 2px;
+}
+
+.divider {
+    border-bottom: #e6e1d2 1px solid;
+    display: block;
+    margin-top: 60px;
+    margin-bottom: 20px;
+}
+
+.multidotdevider {
+    clear: both;
+    margin: 38px auto 27px;
+    text-align: center;
+}
+
+.multidotdevider svg#Layer_1 {
+    clear: both;
+    margin: 0 auto;
+    max-width: 32px;
+}
+
+.st0 {
+    fill: #B4965A !important;
+    stroke: #B4965A;
+    stroke-width: 1.5;
+}
+
+.formpara {
+    text-align: center;
+    padding-top: 0 !important;
+}
+
+.formpara p.last {
+    margin: auto;
+}
+
+.formpara a {
+    text-align: center;
+    display: block;
+    color: #b4975a !important;
+    line-height: 19px;
+    font-family: cantarellregular;
+    font-size: 12px;
+    text-decoration: none !important;
+}
+
+@media screen and (max-width: 767px) {
+    #main {
+        width: calc(100% - 20px);
+        max-width: 100%;
+        margin: 10px auto 10px !important;
+    }
+    
+    .Container {
+        padding: 0 0px;
+    }
+    
+    .PageContent.PageContent--narrow {
+        border-top: 1px solid #b4975a;
+        max-width: 100%;
+        padding-top: 0px;
+    }
+    
+    form#contact_form {
+        padding: 20px 0 10px;
+        max-width: 100%;
+    }
+    
+    #contact_form .Form__Input, 
+    #contact_form .Form__Textarea {
+        width: 100%;
+        height: 32px;
+        margin-bottom: 0;
+    }
+    
+    .form-btn-box p {
+        text-align: left;
+        margin-left: 0;
+        padding-left: 0 !important;
+    }
+    
+    button.Form__Submit.Button.Button--primary.Button--full {
+        width: 37% !important;
+        height: 28px;
+        float: none !important;
+        margin-right: 0;
+        display: block;
+    }
+    
+    .form-btn-box {
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .divider {
+        margin-top: 10px;
+    }
+    
+    .formpara .multidotdevider {
+        display: none;
+    }
+    
+    .PageContent.PageContent--narrow {
+        margin-bottom: 0px;
+    }
+    
+    #contact_form .Form__FloatingLabel {
+        position: absolute;
+        width: auto;
+        text-align: right;
+        opacity: 1;
+        transform: translateY(92%);
+        padding-right: 0;
+        padding-left: 0;
+    }
+    
+    #contact_form .Form__Item.message-box label.Form__FloatingLabel {
+        transform: translateY(90%);
+    }
+    .cornericon {
+      display: none;
+    }
+}
+
+#contact_form input.Form__Input::placeholder, 
+#contact_form .Form__Textarea::placeholder {
+    opacity: 0;
+}
+
+.become-part{
+    text-align: center;
+}
+
+.cornericon {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    z-index: 1;
+  }
+  
+  .cornericon.top-left {
+    top: 0;
+    left: 0;
+  }
+  
+  .cornericon.top-right {
+    top: 0;
+    right: 0;
+  }
+  
+  .cornericon.bottom-left {
+    bottom: 0;
+    left: 0;
+  }
+  
+  .cornericon.bottom-right {
+    bottom: 0;
+    right: 0;
+  }

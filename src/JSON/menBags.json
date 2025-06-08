@@ -1,0 +1,1019 @@
+
+{
+    "products": [
+      {
+        "id": "MW-3001",
+        "name": "Classic Bi-Fold Wallet",
+        "category": "Wallets",
+        "price": 89.99,
+        "rating": 4.7,
+        "color": ["Black", "Brown", "Cognac"],
+        "material": "Full-Grain Leather",
+        "features": [
+          "6 card slots",
+          "ID window",
+          "Bill compartment",
+          "RFID protection"
+        ],
+        "closure": "None",
+        "personalization": ["Monogramming", "Edge coloring"],
+        "image": "image-1",
+        "stock": 42,
+        "dimensions": "4.5 x 3.5 x 0.5 inches",
+        "weight": "0.2 lbs"
+      },
+      {
+        "id": "MW-3002",
+        "name": "Slim Minimalist Wallet",
+        "category": "Wallets",
+        "price": 49.99,
+        "rating": 4.5,
+        "color": ["Charcoal", "Navy", "Olive"],
+        "material": "Nylon with Leather Trim",
+        "features": [
+          "3 card slots",
+          "Money clip",
+          "Ultra-thin design"
+        ],
+        "closure": "Elastic band",
+        "personalization": ["Laser engraving"],
+        "image": "image-2",
+        "stock": 35,
+        "dimensions": "3.5 x 2.5 x 0.3 inches",
+        "weight": "0.1 lbs"
+      },
+      {
+        "id": "MT-3003",
+        "name": "Leather Travel Kit",
+        "category": "Travel Accessories",
+        "price": 129.99,
+        "rating": 4.8,
+        "color": ["Dark Brown", "Black"],
+        "material": "Vegetable-Tanned Leather",
+        "features": [
+          "4 compartments",
+          "Hanging hook",
+          "Water-resistant lining"
+        ],
+        "closure": "Zipper",
+        "personalization": ["Hot stamp initials"],
+        "image": "image-3",
+        "stock": 18,
+        "dimensions": "9 x 6 x 4 inches",
+        "weight": "0.9 lbs"
+      },
+      {
+        "id": "MW-3004",
+        "name": "Automatic Diver Watch",
+        "category": "Watches",
+        "price": 349.99,
+        "rating": 4.9,
+        "color": ["Blue", "Black", "Silver"],
+        "material": "Stainless Steel",
+        "features": [
+          "200m water resistance",
+          "Luminous hands",
+          "Sapphire crystal"
+        ],
+        "closure": "Deployment clasp",
+        "personalization": ["Engraved caseback"],
+        "image": "image-4",
+        "stock": 12,
+        "dimensions": "42mm case",
+        "weight": "0.3 lbs"
+      },
+      {
+        "id": "MV-3005",
+        "name": "Wooden Valet Tray",
+        "category": "Valets",
+        "price": 79.99,
+        "rating": 4.6,
+        "color": ["Walnut", "Mahogany", "Ebony"],
+        "material": "Solid Wood with Leather Lining",
+        "features": [
+          "5 compartments",
+          "Non-slip base",
+          "Handcrafted"
+        ],
+        "closure": "None",
+        "personalization": ["Laser engraved initials"],
+        "image": "image-5",
+        "stock": 25,
+        "dimensions": "12 x 8 x 2 inches",
+        "weight": "1.5 lbs"
+      },
+      {
+        "id": "MT-3006",
+        "name": "Genuine Leather Toiletry Bag",
+        "category": "Toiletry Bags",
+        "price": 95.00,
+        "rating": 4.7,
+        "color": ["Tan", "Black"],
+        "material": "Top-Grain Leather",
+        "features": [
+          "3 zippered pockets",
+          "Hanging loop",
+          "Water-resistant lining"
+        ],
+        "closure": "Zipper",
+        "personalization": ["Embossed initials"],
+        "image": "image-1",
+        "stock": 20,
+        "dimensions": "10 x 7 x 4 inches",
+        "weight": "1.1 lbs"
+      },
+      {
+        "id": "MJ-3007",
+        "name": "Jewelry Organizer Box",
+        "category": "Jewelry Organizers",
+        "price": 119.99,
+        "rating": 4.5,
+        "color": ["Black", "Brown"],
+        "material": "Leather-Wrapped Wood",
+        "features": [
+          "12 compartments",
+          "Lockable",
+          "Soft velvet lining"
+        ],
+        "closure": "Hinged lid",
+        "personalization": ["Monogram plate"],
+        "image": "image-2",
+        "stock": 15,
+        "dimensions": "10 x 8 x 3 inches",
+        "weight": "2.2 lbs"
+      },
+      {
+        "id": "MB-3008",
+        "name": "Leather Belt with Money Clip",
+        "category": "Belts",
+        "price": 69.99,
+        "rating": 4.4,
+        "color": ["Black", "Brown", "Cognac"],
+        "material": "Genuine Leather",
+        "features": [
+          "Adjustable money clip",
+          "Reversible buckle",
+          "1.5\" width"
+        ],
+        "closure": "Buckle",
+        "personalization": ["Size customization"],
+        "image": "image-5",
+        "stock": 30,
+        "dimensions": "40-44 inch length",
+        "weight": "0.5 lbs"
+      },
+      {
+        "id": "MT-3009",
+        "name": "Passport Holder",
+        "category": "Travel Accessories",
+        "price": 45.00,
+        "rating": 4.6,
+        "color": ["Navy", "Burgundy", "Black"],
+        "material": "Saffiano Leather",
+        "features": [
+          "RFID blocking",
+          "Pen holder",
+          "Ticket pocket"
+        ],
+        "closure": "Elastic band",
+        "personalization": ["Embossed initials"],
+        "image": "image-2",
+        "stock": 40,
+        "dimensions": "5.5 x 4 inches",
+        "weight": "0.2 lbs"
+      },
+      {
+        "id": "MW-3010",
+        "name": "Chronograph Leather Strap Watch",
+        "category": "Watches",
+        "price": 229.99,
+        "rating": 4.7,
+        "color": ["Brown", "Black"],
+        "material": "Stainless Steel with Leather Strap",
+        "features": [
+          "Date display",
+          "Tachymeter scale",
+          "50m water resistance"
+        ],
+        "closure": "Tang buckle",
+        "personalization": ["Caseback engraving"],
+        "image": "image-1",
+        "stock": 18,
+        "dimensions": "40mm case",
+        "weight": "0.25 lbs"
+      },
+      {
+        "id": "MV-3011",
+        "name": "Valet Stand with Tray",
+        "category": "Valets",
+        "price": 149.99,
+        "rating": 4.8,
+        "color": ["Walnut", "Espresso"],
+        "material": "Solid Wood with Metal Base",
+        "features": [
+          "5 coat hooks",
+          "Removable tray",
+          "Jewelry dish"
+        ],
+        "closure": "None",
+        "personalization": ["Wood burning"],
+        "image": "image-4",
+        "stock": 10,
+        "dimensions": "15 x 10 x 48 inches",
+        "weight": "5.5 lbs"
+      },
+      {
+        "id": "MT-3012",
+        "name": "Hanging Toiletry Bag",
+        "category": "Toiletry Bags",
+        "price": 59.99,
+        "rating": 4.5,
+        "color": ["Gray", "Black", "Navy"],
+        "material": "Water-Resistant Nylon",
+        "features": [
+          "4 compartments",
+          "Mirror",
+          "Hanging hook"
+        ],
+        "closure": "Zipper",
+        "personalization": ["Embroidered initials"],
+        "image": "image-3",
+        "stock": 25,
+        "dimensions": "10 x 7 x 3 inches",
+        "weight": "0.7 lbs"
+      },
+      {
+        "id": "MJ-3013",
+        "name": "Travel Jewelry Case",
+        "category": "Jewelry Organizers",
+        "price": 79.99,
+        "rating": 4.6,
+        "color": ["Black", "Brown"],
+        "material": "Leather with Microfiber Lining",
+        "features": [
+          "Ring rolls",
+          "Necklace hooks",
+          "Compact design"
+        ],
+        "closure": "Zipper",
+        "personalization": ["Monogram tag"],
+        "image": "image-2",
+        "stock": 20,
+        "dimensions": "8 x 5 x 2 inches",
+        "weight": "0.6 lbs"
+      },
+      {
+        "id": "MW-3014",
+        "name": "Money Clip Wallet",
+        "category": "Wallets",
+        "price": 65.00,
+        "rating": 4.4,
+        "color": ["Silver", "Gunmetal", "Gold"],
+        "material": "Stainless Steel with Leather Insert",
+        "features": [
+          "6 card capacity",
+          "Slim profile",
+          "RFID blocking"
+        ],
+        "closure": "Money clip",
+        "personalization": ["Laser engraving"],
+        "image": "image-5",
+        "stock": 30,
+        "dimensions": "3 x 2 x 0.2 inches",
+        "weight": "0.15 lbs"
+      },
+      {
+        "id": "MT-3015",
+        "name": "Leather Luggage Tag",
+        "category": "Travel Accessories",
+        "price": 29.99,
+        "rating": 4.3,
+        "color": ["Brown", "Black", "Tan"],
+        "material": "Genuine Leather",
+        "features": [
+          "Writeable insert",
+          "Metal loop",
+          "Durable stitching"
+        ],
+        "closure": "Snap button",
+        "personalization": ["Embossed name"],
+        "image": "image-1",
+        "stock": 50,
+        "dimensions": "2.5 x 4 inches",
+        "weight": "0.1 lbs"
+      },
+      {
+        "id": "MW-3016",
+        "name": "Automatic Skeleton Watch",
+        "category": "Watches",
+        "price": 399.99,
+        "rating": 4.9,
+        "color": ["Rose Gold", "Silver", "Black"],
+        "material": "Stainless Steel with Sapphire Crystal",
+        "features": [
+          "Exhibition caseback",
+          "42-hour power reserve",
+          "Hand-winding"
+        ],
+        "closure": "Deployment clasp",
+        "personalization": ["Caseback engraving"],
+        "image": "image-2",
+        "stock": 8,
+        "dimensions": "41mm case",
+        "weight": "0.35 lbs"
+      },
+      {
+        "id": "MV-3017",
+        "name": "Leather Valet Tray",
+        "category": "Valets",
+        "price": 89.99,
+        "rating": 4.7,
+        "color": ["Cognac", "Black", "Oxblood"],
+        "material": "Full-Grain Leather",
+        "features": [
+          "Hand-stitched",
+          "4 compartments",
+          "Structured shape"
+        ],
+        "closure": "None",
+        "personalization": ["Hot stamp initials"],
+        "image": "image-2",
+        "stock": 22,
+        "dimensions": "10 x 7 x 2 inches",
+        "weight": "0.8 lbs"
+      },
+      {
+        "id": "MT-3018",
+        "name": "Clear Toiletry Bag",
+        "category": "Toiletry Bags",
+        "price": 39.99,
+        "rating": 4.2,
+        "color": ["Clear", "Smoke"],
+        "material": "TPU with Leather Trim",
+        "features": [
+          "TSA compliant",
+          "Hanging hook",
+          "Water-resistant"
+        ],
+        "closure": "Zipper",
+        "personalization": ["None"],
+        "image": "image-3",
+        "stock": 35,
+        "dimensions": "9 x 6 x 3 inches",
+        "weight": "0.5 lbs"
+      },
+      {
+        "id": "MJ-3019",
+        "name": "Wooden Watch Box",
+        "category": "Jewelry Organizers",
+        "price": 129.99,
+        "rating": 4.8,
+        "color": ["Mahogany", "Walnut"],
+        "material": "Solid Wood with Velvet Lining",
+        "features": [
+          "Holds 5 watches",
+          "2 jewelry drawers",
+          "Glass top"
+        ],
+        "closure": "Hinged lid",
+        "personalization": ["Laser engraved plate"],
+        "image": "image-4",
+        "stock": 12,
+        "dimensions": "12 x 8 x 5 inches",
+        "weight": "3.5 lbs"
+      },
+      {
+        "id": "MW-3020",
+        "name": "Front Pocket Wallet",
+        "category": "Wallets",
+        "price": 54.99,
+        "rating": 4.5,
+        "color": ["Black", "Brown", "Navy"],
+        "material": "Carbon Fiber with Leather Lining",
+        "features": [
+          "4 card slots",
+          "Quick-access slot",
+          "RFID protection"
+        ],
+        "closure": "Elastic band",
+        "personalization": ["Laser engraving"],
+        "image": "image-5",
+        "stock": 28,
+        "dimensions": "3.75 x 2.75 x 0.4 inches",
+        "weight": "0.15 lbs"
+      },
+      {
+        "id": "MT-3021",
+        "name": "Packing Cubes Set",
+        "category": "Travel Accessories",
+        "price": 49.99,
+        "rating": 4.6,
+        "color": ["Black", "Navy", "Gray"],
+        "material": "Ripstop Nylon",
+        "features": [
+          "3-piece set",
+          "Mesh tops",
+          "Compression zippers"
+        ],
+        "closure": "Zipper",
+        "personalization": ["None"],
+        "image": "image-1",
+        "stock": 40,
+        "dimensions": "Various sizes",
+        "weight": "1.2 lbs"
+      },
+      {
+        "id": "MW-3022",
+        "name": "Field Watch with NATO Strap",
+        "category": "Watches",
+        "price": 179.99,
+        "rating": 4.7,
+        "color": ["Green", "Black", "Tan"],
+        "material": "Stainless Steel with Nylon Strap",
+        "features": [
+          "100m water resistance",
+          "Luminous markers",
+          "24-hour dial"
+        ],
+        "closure": "Buckle",
+        "personalization": ["Caseback engraving"],
+        "image": "image-2",
+        "stock": 15,
+        "dimensions": "38mm case",
+        "weight": "0.2 lbs"
+      },
+      {
+        "id": "MV-3023",
+        "name": "Valet Chair with Storage",
+        "category": "Valets",
+        "price": 199.99,
+        "rating": 4.8,
+        "color": ["Espresso", "Black"],
+        "material": "Wood with Upholstered Seat",
+        "features": [
+          "2 storage drawers",
+          "Coat hook",
+          "Padded seat"
+        ],
+        "closure": "None",
+        "personalization": ["None"],
+        "image": "image-1",
+        "stock": 7,
+        "dimensions": "18 x 20 x 32 inches",
+        "weight": "15 lbs"
+      },
+      {
+        "id": "MT-3024",
+        "name": "Leather Dopp Kit",
+        "category": "Toiletry Bags",
+        "price": 85.00,
+        "rating": 4.7,
+        "color": ["Tan", "Black", "Burgundy"],
+        "material": "Full-Grain Leather",
+        "features": [
+          "Main compartment",
+          "Front pocket",
+          "Water-resistant lining"
+        ],
+        "closure": "Zipper",
+        "personalization": ["Embossed initials"],
+        "image": "image-2",
+        "stock": 18,
+        "dimensions": "10 x 6 x 4 inches",
+        "weight": "1.0 lbs"
+      },
+      {
+        "id": "MJ-3025",
+        "name": "Leather Valet Tray with Jewelry Organizer",
+        "category": "Jewelry Organizers",
+        "price": 109.99,
+        "rating": 4.6,
+        "color": ["Brown", "Black"],
+        "material": "Leather with Suede Lining",
+        "features": [
+          "Watch holder",
+          "Ring slots",
+          "Cufflink compartment"
+        ],
+        "closure": "None",
+        "personalization": ["Hot stamp initials"],
+        "image": "image-3",
+        "stock": 14,
+        "dimensions": "12 x 8 x 2 inches",
+        "weight": "1.2 lbs"
+      },
+      {
+        "id": "MW-3026",
+        "name": "Metal Card Holder",
+        "category": "Wallets",
+        "price": 59.99,
+        "rating": 4.3,
+        "color": ["Titanium", "Black", "Gold"],
+        "material": "Aircraft-Grade Aluminum",
+        "features": [
+          "Holds 6 cards",
+          "Money clip",
+          "RFID blocking"
+        ],
+        "closure": "None",
+        "personalization": ["Laser engraving"],
+        "image": "image-4",
+        "stock": 25,
+        "dimensions": "3.5 x 2.25 x 0.3 inches",
+        "weight": "0.2 lbs"
+      },
+      {
+        "id": "MT-3027",
+        "name": "Leather Garment Bag",
+        "category": "Travel Accessories",
+        "price": 249.99,
+        "rating": 4.8,
+        "color": ["Black", "Brown"],
+        "material": "Full-Grain Leather with Nylon Lining",
+        "features": [
+          "Fits 2 suits",
+          "Shoulder strap",
+          "Multiple pockets"
+        ],
+        "closure": "Zipper",
+        "personalization": ["Embossed initials"],
+        "image": "image-5",
+        "stock": 10,
+        "dimensions": "40 x 20 x 5 inches",
+        "weight": "4.5 lbs"
+      },
+      {
+        "id": "MW-3028",
+        "name": "Dress Chronograph Watch",
+        "category": "Watches",
+        "price": 279.99,
+        "rating": 4.7,
+        "color": ["Silver", "Rose Gold", "Black"],
+        "material": "Stainless Steel with Leather Strap",
+        "features": [
+          "Date display",
+          "Sapphire crystal",
+          "30m water resistance"
+        ],
+        "closure": "Tang buckle",
+        "personalization": ["Caseback engraving"],
+        "image": "image-1",
+        "stock": 12,
+        "dimensions": "40mm case",
+        "weight": "0.3 lbs"
+      },
+      {
+        "id": "MV-3029",
+        "name": "Valet Mirror with Storage",
+        "category": "Valets",
+        "price": 159.99,
+        "rating": 4.6,
+        "color": ["Walnut", "White"],
+        "material": "Wood with Mirror",
+        "features": [
+          "Full-length mirror",
+          "4 drawers",
+          "Jewelry tray"
+        ],
+        "closure": "None",
+        "personalization": ["None"],
+        "image": "image-2",
+        "stock": 8,
+        "dimensions": "14 x 8 x 60 inches",
+        "weight": "20 lbs"
+      },
+      {
+        "id": "MT-3030",
+        "name": "Roll-Up Toiletry Bag",
+        "category": "Toiletry Bags",
+        "price": 45.99,
+        "rating": 4.4,
+        "color": ["Black", "Navy", "Olive"],
+        "material": "Water-Resistant Canvas",
+        "features": [
+          "6 pockets",
+          "Hanging loop",
+          "Compact when empty"
+        ],
+        "closure": "Roll-top",
+        "personalization": ["Embroidered initials"],
+        "image": "image-3",
+        "stock": 30,
+        "dimensions": "12 x 8 inches (unrolled)",
+        "weight": "0.6 lbs"
+      },
+      {
+        "id": "MJ-3031",
+        "name": "Travel Jewelry Roll",
+        "category": "Jewelry Organizers",
+        "price": 69.99,
+        "rating": 4.5,
+        "color": ["Black", "Brown"],
+        "material": "Leather with Velvet Lining",
+        "features": [
+          "6 ring slots",
+          "Necklace holder",
+          "Compact design"
+        ],
+        "closure": "Tie closure",
+        "personalization": ["Embossed initials"],
+        "image": "image-4",
+        "stock": 22,
+        "dimensions": "10 x 6 inches (unrolled)",
+        "weight": "0.5 lbs"
+      },
+      {
+        "id": "MW-3032",
+        "name": "Passport Wallet",
+        "category": "Wallets",
+        "price": 79.99,
+        "rating": 4.6,
+        "color": ["Black", "Brown", "Navy"],
+        "material": "Genuine Leather",
+        "features": [
+          "Passport slot",
+          "4 card pockets",
+          "Pen holder"
+        ],
+        "closure": "Snap button",
+        "personalization": ["Embossed initials"],
+        "image": "image-5",
+        "stock": 20,
+        "dimensions": "5.5 x 4 inches",
+        "weight": "0.3 lbs"
+      },
+      {
+        "id": "MT-3033",
+        "name": "Leather Shoe Bag",
+        "category": "Travel Accessories",
+        "price": 39.99,
+        "rating": 4.3,
+        "color": ["Black", "Brown"],
+        "material": "Full-Grain Leather",
+        "features": [
+          "Drawstring closure",
+          "Ventilation holes",
+          "Dust protection"
+        ],
+        "closure": "Drawstring",
+        "personalization": ["Embossed initials"],
+        "image": "image-1",
+        "stock": 35,
+        "dimensions": "15 x 10 inches",
+        "weight": "0.4 lbs"
+      },
+      {
+        "id": "MW-3034",
+        "name": "Pilot's Chronograph Watch",
+        "category": "Watches",
+        "price": 329.99,
+        "rating": 4.8,
+        "color": ["Blue", "Black", "Brown"],
+        "material": "Stainless Steel with Leather Strap",
+        "features": [
+          "Slide rule bezel",
+          "Date display",
+          "100m water resistance"
+        ],
+        "closure": "Deployment clasp",
+        "personalization": ["Caseback engraving"],
+        "image": "image-2",
+        "stock": 10,
+        "dimensions": "42mm case",
+        "weight": "0.35 lbs"
+      },
+      {
+        "id": "MV-3035",
+        "name": "Leather Valet Box",
+        "category": "Valets",
+        "price": 119.99,
+        "rating": 4.7,
+        "color": ["Cognac", "Black"],
+        "material": "Full-Grain Leather",
+        "features": [
+          "3 compartments",
+          "Watch holder",
+          "Lined interior"
+        ],
+        "closure": "Hinged lid",
+        "personalization": ["Embossed initials"],
+        "image": "image-5",
+        "stock": 15,
+        "dimensions": "10 x 7 x 3 inches",
+        "weight": "1.5 lbs"
+      },
+      {
+        "id": "MT-3036",
+        "name": "Hanging Travel Kit",
+        "category": "Toiletry Bags",
+        "price": 59.99,
+        "rating": 4.5,
+        "color": ["Black", "Gray"],
+        "material": "Water-Resistant Polyester",
+        "features": [
+          "4 compartments",
+          "Hanging hook",
+          "Transparent pockets"
+        ],
+        "closure": "Zipper",
+        "personalization": ["None"],
+        "image": "image-4",
+        "stock": 25,
+        "dimensions": "10 x 7 x 3 inches",
+        "weight": "0.7 lbs"
+      },
+      {
+        "id": "MJ-3037",
+        "name": "Wooden Cufflink Box",
+        "category": "Jewelry Organizers",
+        "price": 89.99,
+        "rating": 4.6,
+        "color": ["Walnut", "Mahogany"],
+        "material": "Solid Wood with Velvet Lining",
+        "features": [
+          "Holds 12 cufflinks",
+          "Glass top",
+          "Compact size"
+        ],
+        "closure": "Hinged lid",
+        "personalization": ["Laser engraved plate"],
+        "image": "image-2",
+        "stock": 18,
+        "dimensions": "8 x 6 x 2 inches",
+        "weight": "1.2 lbs"
+      },
+      {
+        "id": "MW-3038",
+        "name": "Carbon Fiber Wallet",
+        "category": "Wallets",
+        "price": 99.99,
+        "rating": 4.7,
+        "color": ["Black", "Gray"],
+        "material": "Carbon Fiber with RFID Protection",
+        "features": [
+          "6 card slots",
+          "Money clip",
+          "Ultra-thin"
+        ],
+        "closure": "None",
+        "personalization": ["Laser engraving"],
+        "image": "/images/men/wallets/mw-3038.jpg",
+        "stock": 20,
+        "dimensions": "4 x 3 x 0.3 inches",
+        "weight": "0.2 lbs"
+      },
+      {
+        "id": "MT-3039",
+        "name": "Leather Tie Case",
+        "category": "Travel Accessories",
+        "price": 49.99,
+        "rating": 4.4,
+        "color": ["Black", "Brown"],
+        "material": "Genuine Leather",
+        "features": [
+          "Holds 3 ties",
+          "Protective lining",
+          "Compact design"
+        ],
+        "closure": "Zipper",
+        "personalization": ["Embossed initials"],
+        "image": "/images/men/travel/mt-3039.jpg",
+        "stock": 30,
+        "dimensions": "16 x 5 x 1 inches",
+        "weight": "0.4 lbs"
+      },
+      {
+        "id": "MW-3040",
+        "name": "Diver's Automatic Watch",
+        "category": "Watches",
+        "price": 399.99,
+        "rating": 4.9,
+        "color": ["Black", "Blue", "Green"],
+        "material": "Stainless Steel with Rubber Strap",
+        "features": [
+          "300m water resistance",
+          "Unidirectional bezel",
+          "Luminous markers"
+        ],
+        "closure": "Deployment clasp",
+        "personalization": ["Caseback engraving"],
+        "image": "/images/men/watches/mw-3040.jpg",
+        "stock": 8,
+        "dimensions": "44mm case",
+        "weight": "0.4 lbs"
+      },
+      {
+        "id": "MV-3041",
+        "name": "Valet Bench with Storage",
+        "category": "Valets",
+        "price": 229.99,
+        "rating": 4.8,
+        "color": ["Espresso", "Black"],
+        "material": "Wood with Upholstered Seat",
+        "features": [
+          "Storage compartment",
+          "Coat hooks",
+          "Padded seat"
+        ],
+        "closure": "Lid",
+        "personalization": ["None"],
+        "image": "/images/men/valets/mv-3041.jpg",
+        "stock": 6,
+        "dimensions": "36 x 18 x 18 inches",
+        "weight": "25 lbs"
+      },
+      {
+        "id": "MT-3042",
+        "name": "Leather Dopp Kit with Toiletry Bottles",
+        "category": "Toiletry Bags",
+        "price": 129.99,
+        "rating": 4.7,
+        "color": ["Brown", "Black"],
+        "material": "Full-Grain Leather",
+        "features": [
+          "Includes 3 travel bottles",
+          "Razor holder",
+          "Hanging hook"
+        ],
+        "closure": "Zipper",
+        "personalization": ["Embossed initials"],
+        "image": "/images/men/toiletry/mt-3042.jpg",
+        "stock": 12,
+        "dimensions": "10 x 7 x 4 inches",
+        "weight": "1.5 lbs"
+      },
+      {
+        "id": "MJ-3043",
+        "name": "Leather Watch Roll",
+        "category": "Jewelry Organizers",
+        "price": 149.99,
+        "rating": 4.8,
+        "color": ["Black", "Brown"],
+        "material": "Full-Grain Leather with Velvet Lining",
+        "features": [
+          "Holds 3 watches",
+          "Padded cushions",
+          "Travel-friendly"
+        ],
+        "closure": "Roll-up with tie",
+        "personalization": ["Embossed initials"],
+        "image": "/images/men/jewelry/mj-3043.jpg",
+        "stock": 10,
+        "dimensions": "12 x 8 inches (unrolled)",
+        "weight": "1.0 lbs"
+      },
+      {
+        "id": "MW-3044",
+        "name": "Aluminum Money Clip",
+        "category": "Wallets",
+        "price": 45.00,
+        "rating": 4.3,
+        "color": ["Silver", "Black", "Gold"],
+        "material": "Aircraft-Grade Aluminum",
+        "features": [
+          "Holds 10+ bills",
+          "Sleek design",
+          "Durable"
+        ],
+        "closure": "Money clip",
+        "personalization": ["Laser engraving"],
+        "image": "/images/men/wallets/mw-3044.jpg",
+        "stock": 35,
+        "dimensions": "2.5 x 1.5 inches",
+        "weight": "0.1 lbs"
+      },
+      {
+        "id": "MT-3045",
+        "name": "Leather Tech Organizer",
+        "category": "Travel Accessories",
+        "price": 79.99,
+        "rating": 4.6,
+        "color": ["Black", "Brown"],
+        "material": "Full-Grain Leather",
+        "features": [
+          "Fits tablet + accessories",
+          "Cable management",
+          "Multiple pockets"
+        ],
+        "closure": "Zipper",
+        "personalization": ["Embossed initials"],
+        "image": "/images/men/travel/mt-3045.jpg",
+        "stock": 20,
+        "dimensions": "11 x 8 x 2 inches",
+        "weight": "0.9 lbs"
+      },
+      {
+        "id": "MW-3046",
+        "name": "GMT Automatic Watch",
+        "category": "Watches",
+        "price": 459.99,
+        "rating": 4.9,
+        "color": ["Black", "Blue", "Two-Tone"],
+        "material": "Stainless Steel with Ceramic Bezel",
+        "features": [
+          "Dual time zone",
+          "Date display",
+          "100m water resistance"
+        ],
+        "closure": "Oyster bracelet",
+        "personalization": ["Caseback engraving"],
+        "image": "/images/men/watches/mw-3046.jpg",
+        "stock": 6,
+        "dimensions": "40mm case",
+        "weight": "0.4 lbs"
+      },
+      {
+        "id": "MV-3047",
+        "name": "Leather Valet Tray with Watch Holder",
+        "category": "Valets",
+        "price": 99.99,
+        "rating": 4.7,
+        "color": ["Cognac", "Black"],
+        "material": "Full-Grain Leather",
+        "features": [
+          "Watch pillow",
+          "Ring slots",
+          "Structured shape"
+        ],
+        "closure": "None",
+        "personalization": ["Embossed initials"],
+        "image": "/images/men/valets/mv-3047.jpg",
+        "stock": 18,
+        "dimensions": "12 x 8 x 2 inches",
+        "weight": "1.0 lbs"
+      },
+      {
+        "id": "MT-3048",
+        "name": "Clear TSA Toiletry Bag",
+        "category": "Toiletry Bags",
+        "price": 34.99,
+        "rating": 4.3,
+        "color": ["Clear", "Smoke"],
+        "material": "TPU",
+        "features": [
+          "TSA compliant",
+          "Hanging hook",
+          "Water-resistant"
+        ],
+        "closure": "Zipper",
+        "personalization": ["None"],
+        "image": "/images/men/toiletry/mt-3048.jpg",
+        "stock": 40,
+        "dimensions": "8 x 6 x 3 inches",
+        "weight": "0.4 lbs"
+      },
+      {
+        "id": "MJ-3049",
+        "name": "Leather Jewelry Box",
+        "category": "Jewelry Organizers",
+        "price": 179.99,
+        "rating": 4.8,
+        "color": ["Black", "Brown"],
+        "material": "Leather-Wrapped Wood",
+        "features": [
+          "4 drawers",
+          "Watch holder",
+          "Velvet lining"
+        ],
+        "closure": "Hinged lid",
+        "personalization": ["Embossed initials"],
+        "image": "/images/men/jewelry/mj-3049.jpg",
+        "stock": 8,
+        "dimensions": "12 x 9 x 5 inches",
+        "weight": "3.0 lbs"
+      },
+      {
+        "id": "MW-3050",
+        "name": "Travel Wallet with Coin Pocket",
+        "category": "Wallets",
+        "price": 69.99,
+        "rating": 4.6,
+        "color": ["Black", "Brown"],
+        "material": "Full-Grain Leather",
+        "features": [
+          "Passport slot",
+          "Coin zipper pocket",
+          "8 card slots"
+        ],
+        "closure": "Snap button",
+        "personalization": ["Embossed initials"],
+        "image": "/images/men/wallets/mw-3050.jpg",
+        "stock": 22,
+        "dimensions": "5 x 4 inches",
+        "weight": "0.3 lbs"
+      }
+    ],
+    "metadata": {
+      "totalProducts": 50,
+      "categories": [
+        "Wallets",
+        "Travel Accessories",
+        "Watches",
+        "Valets",
+        "Toiletry Bags",
+        "Jewelry Organizers"
+      ],
+      "lastUpdated": "2023-11-20T16:45:00Z",
+      "version": "1.2"
+    }
+  }

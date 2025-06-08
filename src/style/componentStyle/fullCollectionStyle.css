@@ -1,0 +1,81 @@
+.full-collection-container {
+    width: 100%;
+    padding: 70px 0px 10px 0px;
+}
+
+.full-collection {
+    width: 100%;
+}
+
+.full-collection-upper {
+    width: 100%;
+}
+
+.full-collection-header {
+    width: 100%;
+    text-align: center;
+    line-height: 7px;
+}
+.full-collection-sample {
+    width: 100%;
+    display: flex;
+}
+
+.full-collection-sample-items {
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 67px;
+    justify-content: center;
+    align-items: center;
+    padding: 7% 30% 5% 25%;
+}
+.full-collection-sample-item-1 {
+    width: 100%;
+}
+.full-collection-sample-item-2 {
+    width: 100%;
+}
+.full-collection-sample-item-3 {
+    width: 100%;
+}
+.full-collection-sample-items img {
+    transition: opacity 0.3s ease;
+    width: 100%;
+}
+.full-collection-header h4 {
+    font-size: 20px;
+    font-family: math;
+    font-weight: 400;
+    letter-spacing: 8px;
+}
+.full-collection-header span a {
+    color: #000;
+    font-family: monospace;
+    font-weight: 400;
+    font-size: 14px;
+    letter-spacing: 2px;
+}
+
+.full-collection-bottom-content img {
+    width: 100%;
+    transition: all 0.8s ease;
+}
+
+.full-collection-bottom-content img:hover {
+    transform: scale(1.05);
+    opacity: 0.9;
+    transition: all 0.8s ease;
+}
+
+.full-collection-bottom {
+    width: 100%;
+}
+
+.full-collection-bottom-content {
+    width: 98%;
+    display: grid;
+    grid-template-columns: repeat(4, 4fr);
+    gap: 5px;
+    padding: 0px 13px 0px 13px;
+}

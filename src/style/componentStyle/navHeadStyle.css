@@ -1,0 +1,244 @@
+
+.nav-header-container-desktop {
+    width: 100%;
+    position: absolute;
+}
+.nav-logo-container {
+    width: 100%;
+}
+.nav-logo {
+    width: 100%;
+    padding: 10px 0px 20px 0px;
+    display: flex;
+    justify-content: center;
+    transition: all 0.5s ease;
+}
+.nav-logo.scrolled {
+    width: 100%;
+    padding: 10px 0px 20px 0px;
+    display: flex;
+    justify-content: center;
+    transition: all 0.5s ease;
+}
+.nav-logo-content .scrolled {
+    transition: all 0.5s ease;   
+}
+.nav-header-menu {
+    width: 100%;
+    display: flex;
+}
+.logo-anchor {
+    color: #000;
+}
+.nav-header-left {
+    width: 50%;
+}
+.nav-header-right {
+    width: 50%;
+    text-align: right;
+}
+.nav-header-menu span {
+    padding: 0px 10px 0px 10px;
+    cursor: pointer;
+}
+.nav-header-menu a {
+    text-decoration: none;
+    color: #000;
+}
+.nav-header-menus-container {
+    margin-top: -20px;
+    padding-bottom: 10px;
+    font-family: monospace;
+    font-size: 17px;
+}
+.nav-line {
+    width: 100%;
+    height: 2px;
+    background-color: #00000096;    
+}
+
+.nav-header-container {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+    transition: all 0.5s ease;
+    height: 126px;
+    background-color: #ffffff6e; 
+}
+
+.nav-header-container.scrolled {
+    height: 106px;
+    background-color: #ffffff6e; 
+    backdrop-filter: blur(2px);
+    -webkit-backdrop-filter: blur(2px);
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1); 
+}
+
+.nav-header-container.scrolled .nav-logo-container {
+    height: 60px;
+}
+
+.nav-header-container.scrolled .nav-logo-content svg {
+    height: 40px;
+}
+
+.nav-header-container.scrolled .nav-header-menus-container {
+    margin-top: -15px;
+    font-size: 14px;
+}
+
+
+@media (max-width: 600px) {
+    .nav-header-container-desktop {
+        background-color: none;
+    }
+    .nav-header-container {
+        height: 120px;
+    }
+    .nav-header-container.scrolled {
+        height: 60px;
+    }
+
+}
+.sign-out-button {
+    background: none;
+    border: none;
+    color: inherit;
+    font: inherit;
+    cursor: pointer;
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.sign-out-button:hover {
+    text-decoration: underline;
+    opacity: 0.8;
+}
+
+
+.nav-header-menu-item .sign-out-button {
+    margin: 0 10px;
+    color: inherit;
+    font-size: inherit;
+    font-family: inherit;
+}
+
+/* Add these new styles */
+.user-greeting {
+    margin-right: 15px;
+    font-weight: 500;
+    color: #333;
+    display: inline-block;
+}
+
+/* Adjust spacing for the right menu items */
+.nav-header-right .nav-header-menu-item {
+    display: flex;
+    align-items: center;
+    justify-content: end;
+}
+
+/* If you want to style the user greeting differently when scrolled */
+.scrolled .user-greeting {
+    color: inherit; /* Or any color you prefer for scrolled state */
+}
+
+/* Make sure sign-out button has proper spacing */
+.sign-out-button {
+    margin-left: 15px;
+}
+
+/* Style for the home link with ::after */
+.home-link {
+    position: relative;
+    margin-right: 15px; /* Adjust spacing as needed */
+  }
+  
+  .home-link::after {
+    content: "";
+    position: absolute;
+    right: -10px; 
+    top: 50%;
+    transform: translateY(-50%);
+    height: 16px; 
+    width: 1px;
+    background-color: #2a2927; 
+  }
+  
+  .nav-header-right .nav-header-menu-item {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-top: 14px;
+  }
+  
+  .user-greeting {
+    font-weight: 500;
+    color: #333;
+  }
+  
+  /* Style for sign out button */
+  .sign-out-button {
+    background: none;
+    border: none;
+    color: inherit;
+    font: inherit;
+    cursor: pointer;
+    padding: 0;
+  }
+  
+  .sign-out-button:hover {
+    text-decoration: underline;
+  }
+  
+  /* Remove the ::after when it's the last element before user greeting */
+  .home-link:last-child::after,
+  .home-link:nth-last-child(2):not(:only-child)::after {
+    display: none;
+  }
+
+ /* Dropdown styles */
+.accessories-dropdown-container {
+    position: relative;
+    display: inline-block;
+}
+
+.accessories-dropdown-container .accessories-main-link {
+    display: inline-block;
+    padding: 10px;
+    text-decoration: none;
+    color: inherit;
+}
+
+.accessories-dropdown-menu {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: white;
+    min-width: 300px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    border-radius: 4px;
+    padding: 10px 0;
+}
+
+.accessories-dropdown-menu a {
+    display: block;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: #333;
+    transition: background-color 0.3s;
+}
+
+.accessories-dropdown-menu a:hover {
+    background-color: #f5f5f5;
+}
+
+/* Make sure the dropdown appears above other elements */
+.nav-header-menu-item {
+    position: relative;
+    z-index: 100;
+}
